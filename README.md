@@ -2,7 +2,7 @@
 
 ## Automatic FM Parameter Matching for Instruments
 
-For any given instrument sounds, a reverse engineering algorithm is developed in MATLAB App Designer to search for the optimal FM parameters to resynthesize this instrument using FM formula. This method not only works for pitched instruments but also for percussions [[presentation](https://drive.google.com/file/d/1dFm8WaWgDdPmAcj_LMZiInKogLoaoQlJ/view?usp=sharing)].
+For any given instrument sounds, a reverse engineering algorithm is developed in MATLAB App Designer to search for the optimal FM parameters to resynthesize this instrument using FM formula. This method not only works for pitched instruments but also for percussions [[Presentation](https://drive.google.com/file/d/1dFm8WaWgDdPmAcj_LMZiInKogLoaoQlJ/view?usp=sharing)].
 
 <img src="FM Parameter Matching/flute.png" style="width:800px">
 <caption><center> Figure 1. Interface for FM parameter matching </center></caption>
