@@ -26,7 +26,7 @@ References:
 
 ## Formant-Wave-Function Voice Synthesis and Real-time Sound Effects UI
 
-The formant-wave function singing voice synthesis developed by IRCAM is modified into a real-time implementation with tunable parameters under which the qualities of the original voice could be modified to a great extent, such as the frequency range, vocal tone, pitch, relative amplitude of each spectral bands, dispersion and vibrato, etc [[Video Demo](https://www.youtube.com/watch?v=tBkFWNNM0Uk)].
+The formant-wave function singing voice synthesis developed by IRCAM is modified into a real-time implementation with tunable parameters under which the qualities of the original voice could be modified to a great extent, such as the frequency range, vocal tone, pitch, relative amplitude of each spectral bands, dispersion and vibrato, etc. [[Video Demo](https://www.youtube.com/watch?v=tBkFWNNM0Uk)].
 
 <img src="Singing Voice DAFX Real-time UI/UI.jpg" style="width:800px">
 <caption><center> Figure 3. User Interface for Voice Modulation</center></caption>
