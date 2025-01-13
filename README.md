@@ -31,4 +31,8 @@ The formant-wave function singing voice synthesis developed by IRCAM is modified
 <img src="Singing Voice DAFX Real-time UI/UI.jpg" style="width:800px">
 <caption><center> Figure 3. User Interface for Voice Modulation</center></caption>
 
-Reference: [Time-Domain Formant-Wave-Function Synthesis](https://www.jstor.org/stable/3679809?seq=1)
+References: 
+
+[Time-Domain Formant-Wave-Function Synthesis](https://www.jstor.org/stable/3679809?seq=1)
+
+[DAFX: Digital Audio Effects](https://dafx.de/DAFX_Book_Page/index.html)
