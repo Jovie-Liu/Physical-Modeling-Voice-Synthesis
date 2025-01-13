@@ -20,7 +20,7 @@ Human voices are synthesized via a source-filter model where the derivative glot
 
 References:
 
-[Glottal source modeling for singing voice synthesis](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/glottal-source-modeling-for-singing-voice-synthesis.pdf?c=icmc;idno=bbp2372.2000.186;format=pdf)
+[Glottal Source Modeling for Singing Voice Synthesis](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/glottal-source-modeling-for-singing-voice-synthesis.pdf?c=icmc;idno=bbp2372.2000.186;format=pdf)
 
 [On the Transfer Function of the Piecewise Cylindrical Vocal Tract Model](http://musicweb.ucsd.edu/~trsmyth/pubs/smc21.pdf)
 
